@@ -1,0 +1,13 @@
+header ,
+footer ,
+.string {
+    background-color: #024;
+}
+
+.btn-danger{
+    width:30vh;
+}
+
+#output{
+    min-height: 255px;
+}
